@@ -1,13 +1,13 @@
-DOMAIN-SUFFIX,meta.ai,proxy
-DOMAIN-SUFFIX,airalo.com,proxy
-DOMAIN-SUFFIX,yahoo.com,proxy
-DOMAIN-SUFFIX,busuu.com,proxy
-DOMAIN-SUFFIX,skool.com,proxy
-DOMAIN-SUFFIX,accuweather.com,proxy
-DOMAIN-SUFFIX,kartinfo.me,proxy
-DOMAIN-SUFFIX,linkedin.com,proxy
-DOMAIN-SUFFIX,wienerphilharmoniker.at,proxy
-DOMAIN-SUFFIX,hkphil.org,proxy
-DOMAIN-SUFFIX,notebooklm.google.com,proxy
-DOMAIN-SUFFIX,claude.ai,proxy
-DOMAIN-SUFFIX,anthropic.com,proxy
+DOMAIN-SUFFIX,meta.ai,US url-test
+DOMAIN-SUFFIX,airalo.com,US url-test
+DOMAIN-SUFFIX,yahoo.com,US url-test
+DOMAIN-SUFFIX,busuu.com,US url-test
+DOMAIN-SUFFIX,skool.com,US url-test
+DOMAIN-SUFFIX,accuweather.com,US url-test
+DOMAIN-SUFFIX,kartinfo.me,US url-test
+DOMAIN-SUFFIX,linkedin.com,US url-test
+DOMAIN-SUFFIX,wienerphilharmoniker.at,US url-test
+DOMAIN-SUFFIX,hkphil.org,US url-test
+DOMAIN-SUFFIX,notebooklm.google.com,US url-test
+DOMAIN-SUFFIX,claude.ai,US url-test
+DOMAIN-SUFFIX,anthropic.com,US url-test
