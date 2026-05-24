@@ -1,11 +1,8 @@
 # Apple Intelligence / Siri / Private Cloud Compute → 走代理
 DOMAIN-SUFFIX,guzzoni.apple.com,Global url-test
+DOMAIN,guzzoni.apple.com,Global url-test
 DOMAIN-SUFFIX,smoot.apple.com,Global url-test
-DOMAIN-SUFFIX,apple-relay.cloudflare.com,Global url-test
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com,Global url-test
-DOMAIN-SUFFIX,cp4.cloudflare.com,Global url-test
-DOMAIN-SUFFIX,cp10.cloudflare.com,Global url-test
-DOMAIN-SUFFIX,apple-relay.apple.com,Global url-test
-# DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,Global url-test
-DOMAIN-SUFFIX,apple-relay.akamaized.net,Global url-test
-DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net,Global url-test
+DOMAIN,apple-relay.cloudflare.com,Global url-test
+DOMAIN,apple-relay.fastly-edge.com,Global url-test
+DOMAIN,cp4.cloudflare.com,Global url-test
+DOMAIN,apple-relay.apple.com,Global url-test
