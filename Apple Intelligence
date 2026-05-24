@@ -6,3 +6,8 @@ DOMAIN,apple-relay.cloudflare.com,Global url-test
 DOMAIN,apple-relay.fastly-edge.com,Global url-test
 DOMAIN,cp4.cloudflare.com,Global url-test
 DOMAIN,apple-relay.apple.com,Global url-test
+DOMAIN-SUFFIX,gateway.icloud.com,Global url-test
+DOMAIN,gspe1-ssl.ls.apple.com,Global url-test
+DOMAIN-SUFFIX,apple-relay.akamaized.net,Global url-test
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net,Global url-test
+DOMAIN,aapps.mzstatic.com,Global url-test
