@@ -6,6 +6,6 @@ DOMAIN-SUFFIX,apple-relay.fastly-edge.com,Global url-test
 DOMAIN-SUFFIX,cp4.cloudflare.com,Global url-test
 DOMAIN-SUFFIX,cp10.cloudflare.com,Global url-test
 DOMAIN-SUFFIX,apple-relay.apple.com,Global url-test
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,Global url-test
+# DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,Global url-test
 DOMAIN-SUFFIX,apple-relay.akamaized.net,Global url-test
 DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net,Global url-test
