@@ -1,14 +1,22 @@
 # Apple Intelligence / Siri / Relay rules
 # Route these domains to a supported-region proxy group, such as a US node.
-DOMAIN,guzzoni.apple.com
-DOMAIN,mask-api.fe.apple-dns.net
-DOMAIN,mask-api.icloud.com
-DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com
-DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
-DOMAIN-SUFFIX,cp4.cloudflare.com
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
-DOMAIN-SUFFIX,gateway.icloud.com
-DOMAIN-KEYWORD,siri
+DOMAIN,guzzoni.apple.com,Global url-test
+DOMAIN,mask-api.fe.apple-dns.net,Global url-test
+DOMAIN,mask-api.icloud.com,Global url-test
+DOMAIN-SUFFIX,smoot.apple.com,Global url-test
+DOMAIN-SUFFIX,apple-relay.apple.com,Global url-test
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,Global url-test
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com,Global url-test
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net,Global url-test
+DOMAIN-SUFFIX,cp4.cloudflare.com,Global url-test
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,Global url-test
+DOMAIN-SUFFIX,gateway.icloud.com,Global url-test
+DOMAIN-KEYWORD,siri,Global url-test
+
+DOMAIN,seed.siri.apple.com,Global url-test
+DOMAIN,probe.icloud.com,Global url-test
+DOMAIN,metrics.icloud.com,Global url-test
+DOMAIN,mask-api.fe2.apple-dns.net,Global url-test
+DOMAIN,apple-relay.akamaized.net,Global url-test
+DOMAIN,apple-carry-relay.cloudflare.com,Global url-test
+DOMAIN,api-siri-prod.apple.com,Global url-test
